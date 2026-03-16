@@ -21,7 +21,6 @@ def print_board():
     print()
     time.sleep(0.5)
 
-
 def is_safe(row, col):
 
     # cek kiri
